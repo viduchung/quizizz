@@ -1,1 +1,130 @@
-function _0x158e(){const _0x2615cc=['trim','Wystąpił\x20błąd:','lastVisibleQuestionId','opacity','3205800FDEIJj','split','white','input','7px\x204px\x205px\x20rgb(0,0,0)','contains','length','18EhNzYm','absolute','closeBTN','mouseleave','1zAddoG','Start\x20Hack','appendChild','2px\x20solid\x20black','#FF0066','85%','<h3\x20id=\x22titleP\x22>Vihungdeptry</h3>\x20<button\x20id=\x22closeBTN\x22>X</button>\x20<br>\x20AutoPowerUps:\x20<input\x20type=\x22checkbox\x22\x20id=\x22option1\x22\x20value=\x22AutoPowerUps\x22>\x20<br>\x20Tự\x20động:\x20<input\x20type=\x22checkbox\x22\x20id=\x22option2\x22\x20value=\x22AutoMode\x22>\x20<br>\x20Tốc\x20độ\x20hiển\x20thị\x20:\x20<br>\x20<input\x20type=\x22range\x22\x20id=\x22speed\x22\x20name=\x22slider\x22\x20min=\x221\x22\x20max=\x2220\x22\x20step=\x221\x22\x20value=\x221\x22>\x20<span\x20id=\x22speedSH\x22>1\x20giây</span>\x20<br>\x20<label>\x20Cách\x20hiển\x20thị:\x20<select\x20id=\x22wyswietlanie\x22>\x20<option\x20value=\x22opcja1\x22>Khung\x20sáng</option>\x20<option\x20value=\x22opcja2\x22>Vihungdz</option>\x20</select>\x20</label>\x20<span\x20id=\x22wersja\x22>by\x20vihungdeptry</span>\x20<br>\x20Màu\x20sắc:\x20<input\x20type=\x22color\x22\x20id=\x22color\x22\x20name=\x22color\x22\x20value=\x22#00FF00\x22>\x20<br>\x20<button\x20id=\x22reset\x22>Lưu\x20cài\x20đặt</button>','1.2','data','none','innerWidth','bottom','3px','2px\x202px\x202px\x20rgb(0,0,0)','add','2px\x202px\x202px\x20rgb(25,25,112)','then','replace','bold','padding','30px','block','parentNode','red','json','speedSH','593844GoarpQ','body','#00FF00','pop','game','firstChild','belt-slot\x20strip-default-btn-style\x20full-size\x20powerup-slot\x20h-full','position','change','answers','right-navigator\x20strip-default-btn-style','#CC0033','remove','boxShadow','border','catch','2px','right','quiz\x20się\x20zakończył','location','div','999','h-1/2','style','1.5','keyCode','input[type=\x27checkbox\x27]','2px\x202px\x204px\x20rgba(0,\x200,\x200,\x200.5)','textShadow','100%','insertBefore','#8B008B','height','button','error','2203330sDarCZ','45%','getElementsByClassName','apply-now\x20nud-btn\x20strip-default-btn-style','display','wersja','image','nie\x20ma\x20submita','setingsMenu','1\x20sekundy','getItem','opcja1','50px','innerHTML','165yoUjFd','91zwRIxG','10px\x206px\x207px\x20rgb(25,25,112)','left','backgroundColor','scale','querySelectorAll','Hack\x20Again','84%','49792RAzDvV','10px','77%','submit-button\x20exp-subtext','option2','addEventListener','1302468JEdKqV','8px','50%','odpowiedz','text','getElementById','błąd','width','forEach','89%','fontSize','pobierano\x20odpowiedzi','borderRadius','30px\x20solid\x20','2452360Qaxaib','getElementsByTagName','#996699','key','classList','</p>','color','checked','https://api.quizit.online/quizizz/answers?pin=','250px','Vihung\x20rat\x20chi\x20deptryyyy','nie\x20znaleziono\x20obrazka','2px\x20solid\x20white','text-center','nie\x20ma\x20okna\x20powerupa','value','fixed','mouseenter','wyswietlanie','slice','log','#FFFF','pytanie','w-full','zIndex','4px','createElement','option1','Nie\x20znaleziono\x20pytania\x20na\x20stronie.','click','<p>','12px','push','\x20sekundy','18px','href','rounded-t-lg','querySelector','165gcVhAU','onclick','fontWeight','90856mILmdQ','parse'];_0x158e=function(){return _0x2615cc;};return _0x158e();}const _0x594368=_0x31ec;(function(_0x18d15c,_0x458397){const _0x131521=_0x31ec,_0x598d11=_0x18d15c();while(!![]){try{const _0x2f681f=-parseInt(_0x131521(0x1b3))/0x1*(parseInt(_0x131521(0x20d))/0x2)+-parseInt(_0x131521(0x241))/0x3*(-parseInt(_0x131521(0x207))/0x4)+parseInt(_0x131521(0x21b))/0x5+-parseInt(_0x131521(0x24a))/0x6+-parseInt(_0x131521(0x1ff))/0x7*(-parseInt(_0x131521(0x244))/0x8)+-parseInt(_0x131521(0x1af))/0x9*(parseInt(_0x131521(0x1f0))/0xa)+-parseInt(_0x131521(0x1fe))/0xb*(-parseInt(_0x131521(0x1cd))/0xc);if(_0x2f681f===_0x458397)break;else _0x598d11['push'](_0x598d11['shift']());}catch(_0x193318){_0x598d11['push'](_0x598d11['shift']());}}}(_0x158e,0x6b24a));let showanswers,powerupsauto,button='',AutoPowerUpsEnabled=![],AutoModeEnabled=![],speed=0x3e8,czypodkreslac=!![],kolor='#00FF00';function OnClick(){const _0x4571ed=_0x31ec;let _0x49c88f=window[_0x4571ed(0x1e0)][_0x4571ed(0x23e)],_0x1d0dee=_0x4571ed(0x223)+_0x49c88f;console[_0x4571ed(0x22f)](_0x4571ed(0x218)),fetch(_0x1d0dee,{'method':'GET'})['then'](_0x911dcf=>_0x911dcf[_0x4571ed(0x1cb)]())[_0x4571ed(0x1c3)](_0x3212cf=>{const _0x406d65=_0x4571ed;let _0x2b966a=_0x3212cf[_0x406d65(0x1bb)]['answers'],_0x2af6e5=[];for(let _0x903d5a=0x0;_0x903d5a<_0x2b966a[_0x406d65(0x1ae)];_0x903d5a++){let _0x225f23=_0x2b966a[_0x903d5a]['_id'],_0xcd168d='';for(let _0x2ece82=0x0;_0x2ece82<_0x2b966a[_0x903d5a][_0x406d65(0x1d6)][_0x406d65(0x1ae)];_0x2ece82++){_0x2b966a[_0x903d5a][_0x406d65(0x1d6)][_0x2ece82][_0x406d65(0x211)]!=''?_0xcd168d+=_0x2b966a[_0x903d5a][_0x406d65(0x1d6)][_0x2ece82]['text']+'|':_0xcd168d+=_0x2b966a[_0x903d5a]['answers'][_0x2ece82][_0x406d65(0x1f6)]+'|';}let _0x303c2e=_0xcd168d[_0x406d65(0x1c4)](_0x406d65(0x239),'')[_0x406d65(0x1c4)](_0x406d65(0x220),''),_0x31d874={'pytanie':_0x225f23,'odpowiedz':_0x303c2e};_0x2af6e5[_0x406d65(0x23b)](_0x31d874);}showanswers=setInterval(()=>Hack(_0x2af6e5),speed),AutoPowerUpsEnabled==!![]&&(powerupsauto=setInterval(()=>AutoPowerUps(),speed));})[_0x4571ed(0x1dc)](_0x78df75=>{const _0x281de5=_0x4571ed;console[_0x281de5(0x1ef)](_0x281de5(0x247),_0x78df75);});}function isUrl(_0x42c7fc){try{return new URL(_0x42c7fc),!![];}catch(_0x4693c4){return![];}}function Hack(_0xe004b6){const _0x150ace=_0x31ec;url=window[_0x150ace(0x1e0)][_0x150ace(0x23e)],url=url['slice'](-0xc);url==='page=summary'&&(console[_0x150ace(0x22f)](_0x150ace(0x1df)),button['style'][_0x150ace(0x1f4)]=_0x150ace(0x1c8),setings[_0x150ace(0x1e4)][_0x150ace(0x1f4)]=_0x150ace(0x1c8),czywyswietlany=!![],clearInterval(showanswers),clearInterval(powerupsauto));let _0x45f088=![],_0x37515f=localStorage[_0x150ace(0x1fa)]('previousContext');const _0x53a5e7=JSON[_0x150ace(0x245)](_0x37515f),_0x4998be=_0x53a5e7[_0x150ace(0x1d1)][_0x150ace(0x248)];if(_0x37515f){let _0x30a079='';for(let _0x482a5b=0x0;_0x482a5b<_0xe004b6[_0x150ace(0x1ae)];_0x482a5b++){if(_0xe004b6[_0x482a5b][_0x150ace(0x231)]===_0x4998be){_0x30a079=_0xe004b6[_0x482a5b][_0x150ace(0x210)];break;}}var _0x2cf67a=document[_0x150ace(0x21c)]('p'),_0x4c3045=_0x30a079[_0x150ace(0x1a9)]('|');_0x4c3045=_0x4c3045['map'](_0x395d2c=>_0x395d2c[_0x150ace(0x1c4)](_0x150ace(0x239),'')),_0x4c3045=_0x4c3045['map'](_0x9be1fc=>_0x9be1fc[_0x150ace(0x1c4)](_0x150ace(0x220),'')),_0x4c3045[_0x150ace(0x1d0)]();if(czypodkreslac==!![])for(var _0x190932=0x0;_0x190932<_0x4c3045[_0x150ace(0x1ae)];_0x190932++){var _0xe4ec87=_0x4c3045[_0x190932][_0x150ace(0x246)]();for(var _0x43c11b=0x0;_0x43c11b<_0x2cf67a[_0x150ace(0x1ae)];_0x43c11b++){var _0x5a64a2=_0x2cf67a[_0x43c11b];TempP=document['createElement']('p'),TempP[_0x150ace(0x1fd)]=_0xe4ec87;if(_0x5a64a2['innerHTML']===TempP[_0x150ace(0x1fd)]){_0x45f088=!![],_0x5a64a2=_0x5a64a2[_0x150ace(0x1c9)],_0x5a64a2=_0x5a64a2[_0x150ace(0x1c9)],_0x5a64a2=_0x5a64a2[_0x150ace(0x1c9)],_0x5a64a2=_0x5a64a2[_0x150ace(0x1c9)];try{_0x5a64a2&&(_0x5a64a2[_0x150ace(0x1e4)]['backgroundColor']=kolor,_0x5a64a2['style']['textShadow']=_0x150ace(0x1e8),AutoModeEnabled==!![]&&(_0x5a64a2['click'](),next=document[_0x150ace(0x1f2)](_0x150ace(0x1d7)),next=next[0x0],next[_0x150ace(0x238)]()));}catch(_0x5ae31e){console[_0x150ace(0x22f)](_0x150ace(0x213));}}}}if(!_0x45f088){const _0x29bd93=document[_0x150ace(0x240)]('textarea.typed-option-input.is-incorrect');if(_0x29bd93){const _0x50815b=new Event(_0x150ace(0x1ab),{'bubbles':!![]});_0x29bd93['value']=_0x4c3045[0x0],_0x29bd93['dispatchEvent'](_0x50815b),_0x45f088=!![];}else{HTTPiden=_0x30a079[_0x150ace(0x22e)](0x8);for(var _0x43c11b=0x0;_0x43c11b<_0x4c3045[_0x150ace(0x1ae)];_0x43c11b++){HTTPiden=isUrl(_0x4c3045[_0x43c11b]);try{if(HTTPiden==!![]){const _0x1e1bb1=document[_0x150ace(0x240)]('.option-image[style*=\x22background-image\x22][style*=\x22'+_0x4c3045[_0x43c11b]+'\x22]');_0x1e1bb1&&(_0x45f088=!![],_0x1e1bb1['style'][_0x150ace(0x219)]=_0x150ace(0x234),_0x1e1bb1['style'][_0x150ace(0x1db)]=_0x150ace(0x21a)+kolor,AutoModeEnabled==!![]&&(_0x1e1bb1['click'](),next=document[_0x150ace(0x1f2)](_0x150ace(0x1d7)),next=next[0x0],next[_0x150ace(0x238)]()));}}catch(_0x4459a1){console[_0x150ace(0x22f)](_0x150ace(0x226));}}}const _0x31d9a8=document['querySelector']('.options-container');if(!_0x45f088&&_0x31d9a8!==null&&_0x31d9a8[_0x150ace(0x21f)]['contains'](_0x150ace(0x232))&&_0x31d9a8[_0x150ace(0x21f)][_0x150ace(0x1ad)](_0x150ace(0x228))&&_0x31d9a8[_0x150ace(0x21f)][_0x150ace(0x1ad)](_0x150ace(0x23f))&&_0x31d9a8[_0x150ace(0x21f)][_0x150ace(0x1ad)](_0x150ace(0x1e3))){let _0x572bb3=document[_0x150ace(0x235)]('p');_0x572bb3[_0x150ace(0x1fd)]=_0x30a079[_0x150ace(0x22e)](0x0,-0x1),_0x572bb3['style'][_0x150ace(0x202)]=kolor,_0x572bb3[_0x150ace(0x1e4)][_0x150ace(0x1c6)]=_0x150ace(0x20e),_0x572bb3[_0x150ace(0x1e4)][_0x150ace(0x221)]=_0x150ace(0x1aa),_0x572bb3[_0x150ace(0x1e4)][_0x150ace(0x243)]='bold',_0x572bb3[_0x150ace(0x1e4)][_0x150ace(0x214)]=_0x150ace(0x1ea),_0x572bb3[_0x150ace(0x1e4)]['position']=_0x150ace(0x22b),_0x572bb3[_0x150ace(0x1e4)][_0x150ace(0x1be)]='84%',_0x572bb3['style'][_0x150ace(0x233)]=_0x150ace(0x1e2),_0x572bb3['style'][_0x150ace(0x217)]=_0x150ace(0x23d),document[_0x150ace(0x1ce)]['insertBefore'](_0x572bb3,document['body']['firstChild']),setTimeout(function(){const _0x4d1d5b=_0x150ace;_0x572bb3[_0x4d1d5b(0x1d9)]();},speed+0x190);}}AutoModeEnabled==!![]&&(submit=document['getElementsByClassName'](_0x150ace(0x20a)),submit=submit[0x0],setTimeout(function(){const _0x42a8de=_0x150ace;try{submit['click']();}catch(_0x455bf3){console[_0x42a8de(0x22f)](_0x42a8de(0x1f7));}},0x1f4)),AutoModeEnabled==!![]&&(submit=document[_0x150ace(0x1f2)]('submit-button'),submit=submit[0x0],setTimeout(function(){const _0xbf3427=_0x150ace;try{submit[_0xbf3427(0x238)]();}catch(_0x4a5b71){console[_0xbf3427(0x22f)](_0xbf3427(0x1f7));}},0x1f4));}else console[_0x150ace(0x22f)](_0x150ace(0x237));}function _0x31ec(_0x44b29e,_0x5e53e2){const _0x158e58=_0x158e();return _0x31ec=function(_0x31ec27,_0x17a306){_0x31ec27=_0x31ec27-0x1a9;let _0x4aae67=_0x158e58[_0x31ec27];return _0x4aae67;},_0x31ec(_0x44b29e,_0x5e53e2);}function AutoPowerUps(){const _0x3eeb95=_0x31ec;try{powerupsslots=document[_0x3eeb95(0x1f2)](_0x3eeb95(0x1d3));for(var _0x414b01=0x0;_0x414b01<powerupsslots['length'];_0x414b01++){powerupsslot=powerupsslots[_0x414b01],powerupsslot[_0x3eeb95(0x238)]();}powerupsapply=document['getElementsByClassName'](_0x3eeb95(0x1f3));for(var _0x414b01=0x0;_0x414b01<powerupsapply[_0x3eeb95(0x1ae)];_0x414b01++){powerupsapply=powerupsapply[_0x414b01],powerupsapply[_0x3eeb95(0x238)]();}}catch(_0x2cfce8){console[_0x3eeb95(0x22f)](_0x3eeb95(0x229));}}button=document[_0x594368(0x235)](_0x594368(0x1ee)),button[_0x594368(0x1fd)]=_0x594368(0x1b4),button['style'][_0x594368(0x202)]='#8B008B',button[_0x594368(0x1e4)][_0x594368(0x221)]=_0x594368(0x1aa),button['style']['position']=_0x594368(0x22b),button['style'][_0x594368(0x1be)]='50px',button['style'][_0x594368(0x1de)]='20px',button[_0x594368(0x1e4)][_0x594368(0x1c6)]=_0x594368(0x1c7),button[_0x594368(0x1e4)][_0x594368(0x243)]=_0x594368(0x1c5),button[_0x594368(0x1e4)][_0x594368(0x1da)]='2px\x202px\x202px\x20rgb(25,25,112)',button[_0x594368(0x1e4)][_0x594368(0x219)]=_0x594368(0x23a),button[_0x594368(0x1e4)][_0x594368(0x1db)]=_0x594368(0x1b6),button[_0x594368(0x1e4)][_0x594368(0x1e9)]=_0x594368(0x1ac),button['style'][_0x594368(0x233)]=_0x594368(0x1e2);let czywyswietlany=!![];button[_0x594368(0x242)]=function(){const _0x255096=_0x594368;OnClick(),button[_0x255096(0x1fd)]=_0x255096(0x1b4),button[_0x255096(0x1e4)][_0x255096(0x1f4)]='none',czywyswietlany=![],setings[_0x255096(0x1e4)][_0x255096(0x1f4)]=_0x255096(0x1bc),setingsMenu[_0x255096(0x1e4)][_0x255096(0x1f4)]=_0x255096(0x1bc),button[_0x255096(0x242)]=function(){const _0xa3758c=_0x255096;clearInterval(showanswers),clearInterval(powerupsauto),OnClick(),button[_0xa3758c(0x1fd)]=_0xa3758c(0x205),button[_0xa3758c(0x1e4)]['display']='none',setings[_0xa3758c(0x1e4)]['display']=_0xa3758c(0x1bc),setingsMenu[_0xa3758c(0x1e4)]['display']=_0xa3758c(0x1bc),czywyswietlany=![],Menu=![];let _0x25e513=document[_0xa3758c(0x235)]('p');_0x25e513[_0xa3758c(0x1fd)]=_0xa3758c(0x225),_0x25e513['style']['backgroundColor']=kolor,_0x25e513['style'][_0xa3758c(0x1c6)]=_0xa3758c(0x20e),_0x25e513[_0xa3758c(0x1e4)][_0xa3758c(0x221)]='white',_0x25e513[_0xa3758c(0x1e4)]['fontWeight']=_0xa3758c(0x1c5),_0x25e513[_0xa3758c(0x1e4)][_0xa3758c(0x214)]='100%',_0x25e513[_0xa3758c(0x1e4)][_0xa3758c(0x1d4)]=_0xa3758c(0x22b),_0x25e513[_0xa3758c(0x1e4)][_0xa3758c(0x1be)]='84%',_0x25e513[_0xa3758c(0x1e4)][_0xa3758c(0x233)]=_0xa3758c(0x1e2),_0x25e513[_0xa3758c(0x1e4)]['fontSize']='18px',document[_0xa3758c(0x1ce)][_0xa3758c(0x1eb)](_0x25e513,document['body'][_0xa3758c(0x1d2)]),setTimeout(function(){_0x25e513['remove']();},0x1770);};let _0x406750=document[_0x255096(0x235)]('p');_0x406750['innerHTML']='Vihung\x20rat\x20chi\x20deptryyyy',_0x406750[_0x255096(0x1e4)][_0x255096(0x202)]=kolor,_0x406750[_0x255096(0x1e4)][_0x255096(0x1c6)]=_0x255096(0x20e),_0x406750[_0x255096(0x1e4)][_0x255096(0x221)]=_0x255096(0x1aa),_0x406750[_0x255096(0x1e4)][_0x255096(0x243)]='bold',_0x406750[_0x255096(0x1e4)][_0x255096(0x214)]=_0x255096(0x1ea),_0x406750[_0x255096(0x1e4)][_0x255096(0x1d4)]=_0x255096(0x22b),_0x406750[_0x255096(0x1e4)][_0x255096(0x1be)]=_0x255096(0x206),_0x406750['style'][_0x255096(0x233)]=_0x255096(0x1e2),_0x406750[_0x255096(0x1e4)][_0x255096(0x217)]=_0x255096(0x23d),document[_0x255096(0x1ce)][_0x255096(0x1eb)](_0x406750,document[_0x255096(0x1ce)][_0x255096(0x1d2)]),setTimeout(function(){const _0x44640b=_0x255096;_0x406750[_0x44640b(0x1d9)]();},0x1770);},button[_0x594368(0x20c)](_0x594368(0x22c),function(){const _0x1a844a=_0x594368;button[_0x1a844a(0x1e4)]['border']=_0x1a844a(0x227);}),button[_0x594368(0x20c)](_0x594368(0x1b2),function(){const _0x4a8c65=_0x594368;button[_0x4a8c65(0x1e4)][_0x4a8c65(0x1db)]='2px\x20solid\x20black';}),document[_0x594368(0x1ce)][_0x594368(0x1b5)](button),document['addEventListener']('keydown',function(_0x13c6ab){const _0x27ad09=_0x594368;(_0x13c6ab[_0x27ad09(0x1e6)]===0x48||_0x13c6ab[_0x27ad09(0x21e)]==='h')&&(czywyswietlany==!![]?(button[_0x27ad09(0x1e4)][_0x27ad09(0x1f4)]='none',setings['style'][_0x27ad09(0x1f4)]=_0x27ad09(0x1bc),setingsMenu[_0x27ad09(0x1e4)][_0x27ad09(0x1f4)]=_0x27ad09(0x1bc),czywyswietlany=![]):(button[_0x27ad09(0x1e4)]['display']=_0x27ad09(0x1c8),setings[_0x27ad09(0x1e4)][_0x27ad09(0x1f4)]=_0x27ad09(0x1c8),czywyswietlany=!![]));}),setings=document['createElement'](_0x594368(0x1ee)),setings[_0x594368(0x1fd)]='Cài\x20Đặt',setings['style'][_0x594368(0x202)]=_0x594368(0x1ec),setings[_0x594368(0x1e4)][_0x594368(0x221)]=_0x594368(0x1aa),setings[_0x594368(0x1e4)][_0x594368(0x1d4)]=_0x594368(0x22b),setings['style']['bottom']=_0x594368(0x1fc),setings['style'][_0x594368(0x1de)]='195px',setings[_0x594368(0x1e4)][_0x594368(0x1da)]=_0x594368(0x1c2),setings[_0x594368(0x1e4)]['padding']='30px',setings[_0x594368(0x1e4)]['fontWeight']=_0x594368(0x1c5),setings['style'][_0x594368(0x219)]=_0x594368(0x23a),setings[_0x594368(0x1e4)][_0x594368(0x1e9)]=_0x594368(0x1ac),setings[_0x594368(0x1e4)][_0x594368(0x1db)]='2px\x20solid\x20black',setings['style'][_0x594368(0x233)]=_0x594368(0x1e2);let Menu=![];setings[_0x594368(0x242)]=function(){const _0x9d3c78=_0x594368;Menu==![]?(setingsMenu[_0x9d3c78(0x1e4)][_0x9d3c78(0x1f4)]=_0x9d3c78(0x1c8),Menu=!![]):(setingsMenu[_0x9d3c78(0x1e4)][_0x9d3c78(0x1f4)]=_0x9d3c78(0x1bc),Menu=![]);},document['body'][_0x594368(0x1b5)](setings),setings['addEventListener']('mouseenter',function(){const _0x3081c6=_0x594368;setings[_0x3081c6(0x1e4)][_0x3081c6(0x1db)]=_0x3081c6(0x227);}),setings[_0x594368(0x20c)]('mouseleave',function(){const _0x4eabf1=_0x594368;setings['style'][_0x4eabf1(0x1db)]=_0x4eabf1(0x1b6);}),setingsMenu=document[_0x594368(0x235)](_0x594368(0x1e1)),setingsMenu['classList'][_0x594368(0x1c1)](_0x594368(0x1f8)),setingsMenu[_0x594368(0x1fd)]=_0x594368(0x1b9),setingsMenu[_0x594368(0x1e4)]['position']=_0x594368(0x22b),setingsMenu[_0x594368(0x1e4)]['bottom']=_0x594368(0x20f),setingsMenu['style'][_0x594368(0x1de)]=_0x594368(0x20f),setingsMenu[_0x594368(0x1e4)][_0x594368(0x214)]='470px',setingsMenu[_0x594368(0x1e4)]['height']=_0x594368(0x224),setingsMenu['style'][_0x594368(0x202)]='#8B008B',setingsMenu['style'][_0x594368(0x1db)]='4px\x20solid\x20black',setingsMenu[_0x594368(0x1e4)][_0x594368(0x1da)]=_0x594368(0x200),setingsMenu['style'][_0x594368(0x233)]='999',setingsMenu['style'][_0x594368(0x221)]=_0x594368(0x230),setingsMenu[_0x594368(0x1e4)][_0x594368(0x243)]=_0x594368(0x1c5),setingsMenu['style']['textShadow']=_0x594368(0x1ac),setingsMenu['style'][_0x594368(0x249)]='0.8';window[_0x594368(0x1bd)]<0x300&&(setingsMenu[_0x594368(0x1e4)][_0x594368(0x214)]='100%',setingsMenu['style'][_0x594368(0x1ed)]=_0x594368(0x1f1),setingsMenu[_0x594368(0x1e4)][_0x594368(0x1be)]=_0x594368(0x20f),setingsMenu[_0x594368(0x1e4)]['right']='0',setingsMenu[_0x594368(0x1e4)][_0x594368(0x201)]='0',setingsMenu[_0x594368(0x1e4)][_0x594368(0x1c6)]=_0x594368(0x208),setingsMenu[_0x594368(0x240)]('h3')['style'][_0x594368(0x217)]='24px',setingsMenu[_0x594368(0x204)](_0x594368(0x1e7))[_0x594368(0x215)](function(_0x55725a){const _0x5ded61=_0x594368;_0x55725a[_0x5ded61(0x1e4)]['marginBottom']=_0x5ded61(0x208);}));document[_0x594368(0x1ce)][_0x594368(0x1b5)](setingsMenu),setingsMenu[_0x594368(0x1e4)]['display']=_0x594368(0x1bc);const checkbox1=document[_0x594368(0x212)](_0x594368(0x236)),checkbox2=document[_0x594368(0x212)](_0x594368(0x20b)),speedE=document['getElementById']('speed'),wybor=document[_0x594368(0x212)](_0x594368(0x22d)),wersja=document['getElementById'](_0x594368(0x1f5)),color=document['getElementById'](_0x594368(0x221)),reset=document[_0x594368(0x212)]('reset'),closeBTN=document[_0x594368(0x212)](_0x594368(0x1b1));checkbox1['addEventListener'](_0x594368(0x1d5),function(){const _0x1a060d=_0x594368;this[_0x1a060d(0x222)]?AutoPowerUpsEnabled=!![]:AutoPowerUpsEnabled=![];}),checkbox2[_0x594368(0x20c)](_0x594368(0x1d5),function(){const _0x470ed6=_0x594368;this['checked']&&czypodkreslac==!![]?AutoModeEnabled=!![]:(AutoModeEnabled=![],this[_0x470ed6(0x222)]=![]);}),speedE['addEventListener']('change',function(){const _0x3cc78b=_0x594368;speed=speedE[_0x3cc78b(0x22a)],speedSH=document[_0x3cc78b(0x212)](_0x3cc78b(0x1cc)),speedSH[_0x3cc78b(0x1fd)]=speed+_0x3cc78b(0x23c),speed=speed*0x3e8;}),wybor['addEventListener'](_0x594368(0x1d5),function(){const _0x106bd2=_0x594368;wybor[_0x106bd2(0x22a)]==_0x106bd2(0x1fb)?czypodkreslac=!![]:wybor[_0x106bd2(0x22a)]=='opcja2'&&(czypodkreslac=![],checkbox2[_0x106bd2(0x222)]=![]);}),color[_0x594368(0x20c)](_0x594368(0x1d5),function(){const _0x24fa68=_0x594368;kolor=color[_0x24fa68(0x22a)],console[_0x24fa68(0x22f)](kolor);}),wersja[_0x594368(0x1e4)][_0x594368(0x1d4)]=_0x594368(0x1b0),wersja[_0x594368(0x1e4)][_0x594368(0x1be)]=_0x594368(0x1dd),wersja[_0x594368(0x1e4)][_0x594368(0x1de)]=_0x594368(0x1dd),wersja[_0x594368(0x1e4)]['color']=_0x594368(0x1ca),wersja['style'][_0x594368(0x217)]=_0x594368(0x1b8),wersja[_0x594368(0x1e4)][_0x594368(0x243)]=_0x594368(0x1c5),reset[_0x594368(0x1e4)][_0x594368(0x1db)]='3px\x20solid\x20black',reset['style'][_0x594368(0x219)]=_0x594368(0x208),reset['style'][_0x594368(0x1d4)]=_0x594368(0x1b0),reset[_0x594368(0x1e4)][_0x594368(0x1be)]=_0x594368(0x20e),reset['style'][_0x594368(0x1de)]=_0x594368(0x209),checkbox1[_0x594368(0x1e4)][_0x594368(0x203)]=_0x594368(0x1e5),checkbox2[_0x594368(0x1e4)][_0x594368(0x203)]=_0x594368(0x1e5),color['style'][_0x594368(0x202)]=_0x594368(0x1ec),wybor['style'][_0x594368(0x202)]=_0x594368(0x1b7),reset[_0x594368(0x1e4)][_0x594368(0x202)]=_0x594368(0x1d8),reset[_0x594368(0x1e4)][_0x594368(0x1da)]=_0x594368(0x1c0),closeBTN['style'][_0x594368(0x1db)]='1px\x20solid\x20black',closeBTN[_0x594368(0x1e4)][_0x594368(0x219)]=_0x594368(0x1bf),closeBTN[_0x594368(0x1e4)][_0x594368(0x1d4)]=_0x594368(0x1b0),closeBTN[_0x594368(0x1e4)]['backgroundColor']=_0x594368(0x21d),closeBTN[_0x594368(0x1e4)][_0x594368(0x1be)]=_0x594368(0x216),closeBTN[_0x594368(0x1e4)][_0x594368(0x1de)]='1%',closeBTN[_0x594368(0x1e4)][_0x594368(0x203)]=_0x594368(0x1ba),closeBTN[_0x594368(0x1e4)][_0x594368(0x214)]='5%',reset[_0x594368(0x242)]=function(){const _0x108648=_0x594368;AutoPowerUpsEnabled=![],AutoModeEnabled=![],speed=0x3e8,czypodkreslac=!![],kolor=_0x108648(0x1cf),wybor[_0x108648(0x22a)]=='opcja1',speedE['value']='1',checkbox1[_0x108648(0x222)]=![],checkbox2['checked']=![],color['value']=kolor,speedSH[_0x108648(0x1fd)]=_0x108648(0x1f9);},closeBTN['onclick']=function(){const _0x42ab37=_0x594368;setingsMenu[_0x42ab37(0x1e4)][_0x42ab37(0x1f4)]=_0x42ab37(0x1bc),Menu=![];};
+(function () {
+    // Tạo khung giao diện nổi
+    const container = document.createElement("div");
+    container.style.position = "fixed";
+    container.style.top = "10px";
+    container.style.right = "10px";
+    container.style.background = "white";
+    container.style.padding = "10px";
+    container.style.border = "1px solid #ccc";
+    container.style.borderRadius = "8px";
+    container.style.zIndex = "999999";
+    container.style.boxShadow = "0 0 10px rgba(0,0,0,0.3)";
+    container.style.fontFamily = "Arial, sans-serif";
+    container.style.width = "360px";
+
+    // Ô nhập URL
+    const input = document.createElement("input");
+    input.type = "text";
+    input.placeholder = "Dán link Quizizz tại đây...";
+    input.style.width = "100%";
+    input.style.padding = "8px";
+    input.style.marginBottom = "8px";
+    input.style.border = "1px solid #ccc";
+    input.style.borderRadius = "4px";
+    input.id = "quiz-url";
+
+    // Nút lấy đáp án
+    const button = document.createElement("button");
+    button.textContent = "📥 Lấy đáp án";
+    button.style.padding = "8px 16px";
+    button.style.backgroundColor = "#673ab7";
+    button.style.color = "#fff";
+    button.style.border = "none";
+    button.style.borderRadius = "4px";
+    button.style.cursor = "pointer";
+    button.style.width = "100%";
+
+    // Thanh tìm kiếm câu hỏi
+    const searchInput = document.createElement("input");
+    searchInput.type = "text";
+    searchInput.placeholder = "🔍 Tìm câu hỏi...";
+    searchInput.style.width = "100%";
+    searchInput.style.padding = "6px";
+    searchInput.style.margin = "10px 0";
+    searchInput.style.border = "1px solid #ccc";
+    searchInput.style.borderRadius = "4px";
+    searchInput.style.display = "none"; // Ẩn ban đầu, hiện sau khi có kết quả
+
+    // Vùng hiển thị kết quả
+    const resultContainer = document.createElement("div");
+    resultContainer.id = "quiz-answers";
+    resultContainer.style.marginTop = "12px";
+    resultContainer.style.maxHeight = "400px";
+    resultContainer.style.overflowY = "auto";
+    resultContainer.style.fontSize = "14px";
+
+    // Thêm các phần tử vào DOM
+    container.appendChild(input);
+    container.appendChild(button);
+    container.appendChild(searchInput);
+    container.appendChild(resultContainer);
+    document.body.appendChild(container);
+
+    // Bộ nhớ tạm danh sách block câu hỏi
+    let allQuestionBlocks = [];
+
+    // Lọc câu hỏi
+    searchInput.addEventListener("input", () => {
+        const keyword = searchInput.value.toLowerCase();
+        allQuestionBlocks.forEach(block => {
+            const text = block.textContent.toLowerCase();
+            block.style.display = text.includes(keyword) ? "block" : "none";
+        });
+    });
+
+    // Sự kiện click nút lấy đáp án
+    button.addEventListener("click", async () => {
+        const quizUrl = input.value.trim();
+        if (!quizUrl.startsWith("http")) {
+            alert("Vui lòng nhập đường dẫn hợp lệ!");
+            return;
+        }
+
+        const encodedUrl = encodeURIComponent(quizUrl);
+        const apiUrl = `https://api.quizit.online/quizizz/answers?pin=${encodedUrl}`;
+
+        resultContainer.innerHTML = "<i>🔄 Đang lấy dữ liệu...</i>";
+        allQuestionBlocks = [];
+        searchInput.style.display = "none";
+
+        try {
+            const res = await fetch(apiUrl);
+            const json = await res.json();
+
+            if (json.message !== "Ok" || !json.data || !json.data.answers) {
+                resultContainer.innerHTML = "❌ Không tìm thấy đáp án.";
+                return;
+            }
+
+            resultContainer.innerHTML = "";
+            json.data.answers.forEach((item, index) => {
+                const questionText = item.question?.text || "Không có câu hỏi";
+                const answers = item.answers?.map(a => a.text).join(", ");
+
+                const block = document.createElement("div");
+                block.style.marginBottom = "15px";
+                block.style.borderBottom = "1px solid #ccc";
+                block.style.paddingBottom = "10px";
+
+                const q = document.createElement("div");
+                q.innerHTML = `<strong>Câu ${index + 1}:</strong> ${questionText}`;
+                const a = document.createElement("div");
+                a.innerHTML = `<span style="color: green;"><strong>Đáp án:</strong> ${answers}</span>`;
+
+                block.appendChild(q);
+                block.appendChild(a);
+                resultContainer.appendChild(block);
+                allQuestionBlocks.push(block);
+            });
+
+            if (allQuestionBlocks.length > 0) {
+                searchInput.style.display = "block";
+            }
+
+        } catch (err) {
+            resultContainer.innerHTML = "⚠️ Lỗi khi tải dữ liệu: " + err.message;
+            console.error(err);
+        }
+    });
+})();
